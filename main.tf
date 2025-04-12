@@ -16,5 +16,5 @@ resource "aws_subnet" "main1" {
 }
 
 variable vpc_cidr {}
-variable subnet1_id {}
+variable subnet1_cidr {}
 variable environment {}
